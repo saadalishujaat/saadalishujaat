@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-https://raw.githubusercontent.com/1999AZZAR/1999AZZAR/main/resources/img/grid-snake.svg
+
 <!--
 **saadalishujaat/saadalishujaat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
