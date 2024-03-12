@@ -9,7 +9,7 @@
 
 
 
-Welcome to my GitHub profile! I'm a passionate Android Team Lead / Product Planner / Product Manager at Funsol Technologies, specializing in crafting exceptional Android experiences that make a meaningful impact. With extensive experience in product planning, UX engineering, maximizing revenue through strategic AD integrations and monetization plan, I'm here to help you take your projects to the next level.
+Welcome to my GitHub profile! I'm a passionate Software Engineer currently working at Careem. Previously, I worked as an Android Team Lead / Product Planner / Product Manager at Funsol Technologies, specializing in crafting exceptional Android experiences that make a meaningful impact. With extensive experience in product planning, UX engineering, and maximizing revenue through strategic AD integrations and monetization plans, I'm here to help you take your projects to the next level.
 
 ## 🚀 Skills and Expertise
 
